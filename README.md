@@ -1,6 +1,6 @@
 # Stock Market Forecaster
 
-This basically is a stock forecasting app made using Java. The forecasting is done using **Facebook Prophet**. We are requesting stocks data from tiingo API. Then using pandas for cleaning and preprocessing the data and using matplotlib for plotting charts. One main feature of the project is you can use this platform/app to do paper trading. For paper trading, we are making HTTP request from **Alpaca**. Here is a preview of some of the pages of app:
+This is a stock forecasting app made using Java and JavaFX. The forecasting is done using **Facebook Prophet** (an open-source algorithm for generating time-series models). We are requesting stocks data from tiingo API. Then using pandas for cleaning and preprocessing the data and using matplotlib for plotting charts. One main feature of the project is you can use this platform/app to do paper trading. For paper trading, we are making API request from **Alpaca**. Here is a preview of some of the pages of app:
 <br/>
 Homepage - this gives you general preview of the top three markets and news related to them:
 
